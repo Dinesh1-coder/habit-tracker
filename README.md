@@ -36,17 +36,4 @@ Track your daily habits, visualize progress, and build consistency with ease.
 
 ---
 
-## 📂 Project Structure
-
-habit-tracker/
-│
-├── src/
-│ ├── components/
-│ ├── App.js
-│ └── index.js
-│
-├── public/
-├── package.json
-└── README.md
-
 
